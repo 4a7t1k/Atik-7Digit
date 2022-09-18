@@ -15,9 +15,9 @@
 
   git clone https://github.com/4a7t1k/Atik-7Digit.git
 
+cd Atik-7Digit
 
-
- python2 Atik.py                                                                               
+ python2 Atik-7Digit.py                                                                               
  User Name : I LOVE YOU
  Pass::ATIK
  
